@@ -1,16 +1,27 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**francgossin/francgossin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python script, Flask and Telegram bot developer.
 
-Here are some ideas to get you started:
+- FOSS, GNU/Linux, Cryptography, Amateur radio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning C++, cryptography, mathematics and reverse engineering.
+
+- Languages: Chinese, English, German, and a little bit French.
+
+- How to reach me:
+
+  - [Telegram](https://t.me/FrancGossin)
+
+  - franc.gossin@proton.me [`8F7CA26A53914180D9CFC9153A941CA84B2DE99E`](https://keys.openpgp.org/vks/v1/by-fingerprint/8F7CA26A53914180D9CFC9153A941CA84B2DE99E)
+
+    Please encrypt and sign your E-mail :-)
+
+- Blogs & Channels
+
+  - [Mastodon](https://mastodon.social/@francgossin)
+ 
+  - [Telegram Channel](https://t.me/FG0xC)
+ 
+  - [Google Blogger](https://francgossin.blogspot.com/)
+
+[![My Skills](https://skillicons.dev/icons?i=au,bots,flask,git,html,js,latex,linux,md,mint,ps,powershell,pr,py,regex,selenium,ts,vscode,vscodium)](https://skillicons.dev)
