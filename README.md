@@ -11,6 +11,8 @@
 - How to reach me:
 
   - [Telegram](https://t.me/FrancGossin)
+ 
+  - franc.gossin@tuta.io
 
   - franc.gossin@proton.me [`8F7CA26A53914180D9CFC9153A941CA84B2DE99E`](https://keys.openpgp.org/vks/v1/by-fingerprint/8F7CA26A53914180D9CFC9153A941CA84B2DE99E)
 
@@ -23,17 +25,3 @@
   - [Telegram Channel](https://t.me/FG0xC)
  
   - [Google Blogger](https://francgossin.blogspot.com/)
- 
-- My Telegram Bots
-
-  - [@xhsfeedbot](https://t.me/xhsfeedbot)
-
-    A Telegram bot that can forward note to telegram message or Telegraph.
-
-    [Souce Code](https://github.com/francgossin/xhsfeedbot)
- 
-  - [@initiumfeedbot](https://t.me/initiumfeedbot)
-
-    [Source Code](https://gist.github.com/francgossin/51ca85d1c7a31a2e6f3ed4305a57ff84)
-
-[![My Skills](https://skillicons.dev/icons?i=au,bots,flask,git,html,js,latex,linux,md,mint,ps,powershell,pr,py,regex,selenium,ts,vscode,vscodium)](https://skillicons.dev)
