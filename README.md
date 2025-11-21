@@ -22,6 +22,6 @@
 
   - [Mastodon](https://mastodon.social/@francgossin)
  
-  - [Telegram Channel](https://t.me/FG0xC)
+  - [Telegram Channel](https://https://t.me/PremierRadiant)
  
-  - [Google Blogger](https://francgossin.blogspot.com/)
+  - [Google Blogger](https://premier-radiant.blogspot.com/)
