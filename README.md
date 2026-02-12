@@ -9,8 +9,6 @@
 - Languages: Chinese, English, German, and a little bit French.
 
 - How to reach me:
-
-  - [Telegram](https://t.me/FrancGossin)
  
   - franc.gossin@tuta.io
 
