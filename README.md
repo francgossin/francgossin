@@ -21,7 +21,5 @@
 - Blogs & Channels
 
   - [Mastodon](https://mastodon.social/@francgossin)
- 
-  - [Telegram Channel](https://https://t.me/PremierRadiant)
- 
+
   - [Google Blogger](https://premier-radiant.blogspot.com/)
